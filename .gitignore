@@ -7,3 +7,5 @@ build/
 .classpath
 .project
 /.apt_generated/
+/build.gradle
+/pom.xml
